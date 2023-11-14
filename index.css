@@ -21,6 +21,7 @@ main {
   flex-direction: row;
   box-shadow: black;
   min-height: 400px;
+  max-width: 750px;
 }
 
 .user-contact-section {
